@@ -1,0 +1,15 @@
+E:\CodeWars\Kata\CSharp\UniqueInORder\bin\Debug\net6.0\UniqueInORder.exe
+E:\CodeWars\Kata\CSharp\UniqueInORder\bin\Debug\net6.0\UniqueInORder.deps.json
+E:\CodeWars\Kata\CSharp\UniqueInORder\bin\Debug\net6.0\UniqueInORder.runtimeconfig.json
+E:\CodeWars\Kata\CSharp\UniqueInORder\bin\Debug\net6.0\UniqueInORder.dll
+E:\CodeWars\Kata\CSharp\UniqueInORder\bin\Debug\net6.0\UniqueInORder.pdb
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.csproj.AssemblyReference.cache
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.AssemblyInfoInputs.cache
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.AssemblyInfo.cs
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.csproj.CoreCompileInputs.cache
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.dll
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\refint\UniqueInORder.dll
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.pdb
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\UniqueInORder.genruntimeconfig.cache
+E:\CodeWars\Kata\CSharp\UniqueInORder\obj\Debug\net6.0\ref\UniqueInORder.dll
